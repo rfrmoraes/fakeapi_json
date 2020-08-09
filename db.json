@@ -1,6 +1,6 @@
 {
-  "modo_deposito" : [
-	"id" : 250,
+  "modo_deposito": [
+	"id": 250,
 	"sequencia_atm" : 1,
 	"mensagem_atm" : "MODO_DEPOSITO",
 	"mensagem_sis" : "MODO_DEPOSITO_OK",
@@ -30,8 +30,8 @@
 	"conf_dez_reais" : 0,
 	"conf_vinte_reais" : 0,
 	"conf_cinquenta_reais" : 0,
-	"conf_cem_reais" : 0,
-	"conf_valor_total" : 0.0
+	"conf_cem_reais": 0,
+	"conf_valor_total": 0.0
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
